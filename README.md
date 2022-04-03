@@ -1,5 +1,5 @@
-# tranlsate.serity.me - Translate Your Language Files<br/>
-#### [Demo](https://translate.serity.me) - [Discord Support](https://discord.gg/VmjJqQy4bz)
+# tranlsate.voiddevs.org - Translate Your Language Files<br/>
+#### [Demo](https://translate.voiddevs.org) - [Discord Support](https://discord.gg/VmjJqQy4bz)
 #### Developed with ❤️ by [clqu](https://clqu.live) & [Swôth](https://swoth.xyz)
 
 
