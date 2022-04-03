@@ -64,7 +64,9 @@ export default function Home() {
     setCopied(false);
     setTimeout(() => {
       try {
-        axios.post('https://translate.serity.me/api/translate?from='+fileLanguage?.code+'&to='+translateTo?.map(a => a?.code)?.join(','), JSON.parse(value))
+        if(!fileLanguage) return setError('Please select file language.');
+        if(!translateTo || translateTo.length <= 0) return setError('Please select translate to language.');
+        axios.post('https://translate.voiddevs.org/api/translate?from='+fileLanguage?.code+'&to='+translateTo?.map(a => a?.code)?.join(','), JSON.parse(value))
           .then(r => {
             if(r) {
               if(r?.data) {
