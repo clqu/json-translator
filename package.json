@@ -1,0 +1,35 @@
+{
+  "name": "allegro",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@asmagin/google-translate-api": "^8.0.2",
+    "@monaco-editor/react": "^4.4.1",
+    "@vitalets/google-translate-api": "^8.0.0",
+    "axios": "^0.26.1",
+    "file-saver": "^2.0.5",
+    "google-translate-api": "^2.3.0",
+    "json-fixer": "^1.6.13",
+    "jszip": "^3.8.0",
+    "next": "12.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "translate-google": "^1.5.0",
+    "translatte": "^3.0.1",
+    "tunnel": "^0.0.6"
+  },
+  "devDependencies": {
+    "@headlessui/react": "^1.5.0",
+    "autoprefixer": "^10.4.2",
+    "eslint": "8.10.0",
+    "eslint-config-next": "12.1.0",
+    "postcss": "^8.4.8",
+    "tailwindcss": "^3.0.23"
+  }
+}
