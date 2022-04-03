@@ -71,7 +71,6 @@ export default function Home() {
             if(r) {
               if(r?.data) {
                 if(r?.data?.success) {
-                  clearInterval(timer);
                   setLoader();
                   setTranslated(true);
                   setCopy(JSON.stringify(r?.data?.data));
