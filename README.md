@@ -1,5 +1,5 @@
 # tranlsate.voiddevs.org - Translate Your Language Files<br/>
-#### [Demo](https://translate.voiddevs.org) - [Discord Support](https://discord.gg/VmjJqQy4bz)
+#### [Demo](https://translate.voiddevs.org) - [Discord Support](https://discord.gg/PFnafbxd5u)
 #### Developed with ❤️ by [clqu](https://clqu.live) & [Swôth](https://swoth.xyz)
 
 
