@@ -1,7 +1,6 @@
 # tranlsate.voiddevs.org - Translate Your Language Files<br/>
 #### [Demo](https://translate.voiddevs.org) - [Discord Support](https://discord.gg/PFnafbxd5u)
-#### Developed with ❤️ by [clqu](https://clqu.live) & [Swôth](https://swoth.xyz)
-
+#### Developed with ❤️ by [clqu](https://clqu.live)
 
 ## Getting Started
 
